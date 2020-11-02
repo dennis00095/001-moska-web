@@ -1,0 +1,14 @@
+{
+  "name": "moska",
+  "version": "1.0.0",
+  "description": "Moska's Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Mwongela Dennis",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
